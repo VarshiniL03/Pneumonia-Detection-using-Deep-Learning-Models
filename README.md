@@ -32,12 +32,12 @@ Developed a web-based diagnostic tool using CNN models for early pneumonia detec
    * Test-time predictions are performed on sample X-ray images.
   
        Patients Dashboard
-     
-         ![image](https://github.com/user-attachments/assets/85d655ba-821a-4150-abf4-28180c0a5485)
+  
+        ![image](https://github.com/user-attachments/assets/3b48cddc-60fe-40a5-8cd6-394be7d40ec5)
 
        Results Page
-     
-         ![image](https://github.com/user-attachments/assets/d32df341-e55c-4ee6-94f2-4b979e641d95)
+
+        ![image](https://github.com/user-attachments/assets/4128ca68-6506-4d31-80c1-298cefcdcc30)
 
 📊 Tools & Libraries Used
 * `TensorFlow` / `Keras`
